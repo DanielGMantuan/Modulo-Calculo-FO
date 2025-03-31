@@ -1,0 +1,5 @@
+C:/Users/NOTE155/source/personal/teste/build/CMakeFiles/meu_modulo.dir
+C:/Users/NOTE155/source/personal/teste/build/CMakeFiles/edit_cache.dir
+C:/Users/NOTE155/source/personal/teste/build/CMakeFiles/rebuild_cache.dir
+C:/Users/NOTE155/source/personal/teste/build/pybind11/CMakeFiles/edit_cache.dir
+C:/Users/NOTE155/source/personal/teste/build/pybind11/CMakeFiles/rebuild_cache.dir

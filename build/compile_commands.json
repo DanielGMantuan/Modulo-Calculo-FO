@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/NOTE155/source/personal/teste/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dmeu_modulo_EXPORTS @CMakeFiles/meu_modulo.dir/includes_CXX.rsp -g -fvisibility=hidden -o CMakeFiles\\meu_modulo.dir\\src\\meu_modulo.cpp.obj -c C:\\Users\\NOTE155\\source\\personal\\teste\\src\\meu_modulo.cpp",
+  "file": "C:/Users/NOTE155/source/personal/teste/src/meu_modulo.cpp",
+  "output": "CMakeFiles/meu_modulo.dir/src/meu_modulo.cpp.obj"
+}
+]
